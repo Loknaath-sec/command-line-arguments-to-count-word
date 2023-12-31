@@ -2,13 +2,13 @@
 ## AIM:
 To write a python program for getting the word count from the contents of a file using command line arguments.
 ## EQUIPEMENT'S REQUIRED: 
-1.PC
-2.Anaconda - Python 3.7
+1. PC
+2. Anaconda - Python 3.7
 ## ALGORITHM: 
-1.Get filename
-2.Read the contents
-3.Split the text into words
-4.Count and print the words
+1. Get filename
+2. Read the contents
+3. Split the text into words
+4. Count and print the words
 
 ## PROGRAM:
 ~~~
